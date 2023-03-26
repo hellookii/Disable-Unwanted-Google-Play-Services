@@ -26,7 +26,7 @@ No, the way the Universal GMS Doze module works makes Google Play Services run i
 
 # Install
 Here's how to install the Unwanted Google Play Services:
-1. Open [MT Manager]https://mt-manager.softonic-id.com/android/download
+1. Open [MT Manager](https://mt-manager.softonic-id.com/android/download)
 2. Then Execute Disabled Unwanted Google Play Services
 
 # Uninstall
