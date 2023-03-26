@@ -21,9 +21,6 @@ Example:
 # Does it work the same way as the magisk module Universal GMS Doze?
 No, the way the Universal GMS Doze module works makes Google Play Services run in battery saving mode while Disable Unwanted Google Play Services turns off unneeded services.
 
-# Upcoming Features
-* Add key selection function for selecting disable service. (Meanwhile, if there are several services needed, you can delete the line code in service.sh)
-
 # Install
 Here's how to install the Unwanted Google Play Services:
 1. Open [MT Manager](https://mt-manager.softonic-id.com/android/download)
