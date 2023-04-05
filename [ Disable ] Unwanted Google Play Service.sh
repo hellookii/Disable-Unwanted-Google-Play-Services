@@ -1,4 +1,4 @@
-#!/sbin/sh
+#!/system/bin/sh
 clear
 # disable all service gms based Google Play Service
 
